@@ -14,19 +14,17 @@ const Footer2 = ({footerSetting = {}}) => {
                         <div className="uk-panel uk-position-z-index">
                             <ul className="uk-subnav uk-subnav-small uk-flex-center uk-text-gray-70">
                                 <li>
-                                    <a href="#"><span className="uk-icon uk-icon-large@m unicon-logo-twitter"></span></a>
+                                    <a href="https://twitter.com/lotShareApp"><span className="uk-icon uk-icon-large@m unicon-logo-twitter"></span></a>
                                 </li>
+                                <li>
+                                    <a href="https://t.me/lotShare"><span className="uk-icon uk-icon-large@m unicon-logo-github"></span></a>
+                                </li>
+
                                 <li>
                                     <a href="#"><span className="uk-icon uk-icon-large@m unicon-logo-discord"></span></a>
                                 </li>
                                 <li>
                                     <a href="#"><span className="uk-icon uk-icon-large@m unicon-logo-instagram"></span></a>
-                                </li>
-                                <li>
-                                    <a href="#"><span className="uk-icon uk-icon-large@m unicon-logo-facebook"></span></a>
-                                </li>
-                                <li>
-                                    <a href="#"><span className="uk-icon uk-icon-large@m unicon-logo-youtube"></span></a>
                                 </li>
                             </ul>
                         </div>

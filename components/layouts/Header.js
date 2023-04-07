@@ -44,8 +44,13 @@ const Header = ({headerSetting = {}}) => {
                                     <div className="uk-navbar-item">
                                         <ul className="uk-subnav uk-subnav-small uk-visible@m">
                                             <li>
-                                                <Link href="#"><i className="uk-icon unicon-logo-twitter"></i></Link>
+                                                <Link href="https://twitter.com/lotShareApp"><i className="uk-icon unicon-logo-twitter"></i></Link>
                                             </li>
+
+                                            <li>
+                                                <Link href="https://t.me/lotShare"><i className="uk-icon unicon-logo-github"></i></Link>
+                                            </li>
+
                                             <li>
                                                 <Link href="#"><i className="uk-icon unicon-logo-discord"></i></Link>
                                             </li>
