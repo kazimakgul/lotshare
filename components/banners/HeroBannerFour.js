@@ -21,8 +21,8 @@ const HeroBannerFour = () =>{
                                     A 890 piece custom Nerko's collection <br className="uk-visible@m" />
                                     is joining the NFT space on Opensea.
                                 </p>
-                                <Link href="#" className="uk-button uk-button-large@m uk-button-gradient uk-margin-small-top">
-                                    <span>View in OPENSEA</span>
+                                <Link href="https://twitter.com/lotShareApp" className="uk-button uk-button-large@m uk-button-gradient uk-margin-small-top">
+                                    <span>Join Community</span>
                                     <i className="uk-icon-small unicon-arrow-up-right uk-text-bold"></i>
                                 </Link>
                                 <div className="uk-grid uk-grid-xsmall uk-flex-middle uk-flex-center uk-flex-left@m uk-text-left uk-margin-large-top uk-margin-xlarge-top@m uk-margin-medium-bottom" data-uk-grid>

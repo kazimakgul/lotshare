@@ -127,8 +127,8 @@ const HomeOneCollection = () => {
                             </div>
                         </div>
                         <div className="uni-btn uk-margin-medium-top uk-margin-2xlarge-top@m uk-flex-center" data-anime="opacity:[0, 1]; translateY:[-24, 0]; onview: true; delay: 200;">
-                            <Link href="#view_in_opensea" className="uk-button uk-button-small uk-button-large@m uk-button-gradient">
-                                <span>View more in OPENSEA</span>
+                            <Link href="https://twitter.com/lotShareApp" className="uk-button uk-button-small uk-button-large@m uk-button-gradient">
+                                <span>Join Our Community</span>
                                 <i className="uk-icon-small unicon-arrow-right uk-text-bold"></i>
                             </Link>
                         </div>

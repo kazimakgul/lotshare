@@ -21,8 +21,8 @@ const HeroBannerOne = () => {
                                         <img className="uk-position-bottom-left" width="24" src="images/objects/circle-03.png" alt="object" style={{bottom: "-16%", left: "16%"}} data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 440;" />
                                         <h2 className="uk-h2 uk-heading-d3@m uk-margin-small uk-margin@m">Next-Gen Land Investment</h2>
                                         <p className="uk-text-xlarge uk-width-xlarge@m uk-text-muted">Seamlessly Trade, Invest, and Profit from Tokenized Land Assets</p>
-                                        <a href="#" className="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
-                                            <span>View in OPENSEA</span>
+                                        <a href="https://twitter.com/lotShareApp" className="uk-button uk-button-medium@m uk-button-gradient uk-margin-small-top">
+                                            <span>Join Community</span>
                                             <i className="uk-icon-small unicon-arrow-right uk-text-bold"></i>
                                         </a>
                                     </div>
@@ -55,13 +55,13 @@ const HeroBannerOne = () => {
                                                 </div>
                                             </div>
                                         </div>
-                                        <a className="uni-circle-text uk-background-white dark:uk-background-gray-80 uk-box-shadow-large uk-visible@m" href="#view_in_opensea">
+                                        <a className="uni-circle-text uk-background-white dark:uk-background-gray-80 uk-box-shadow-large uk-visible@m" href="https://twitter.com/lotShareApp">
                                         <svg className="uni-circle-text-path uk-text-secondary uni-animation-spin" viewBox="0 0 100 100" width="120" height="120">
                                                 <defs>
                                                     <path id="circle" d="M 50, 50 m -37, 0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0">
                                                 </path></defs>
                                                 <text style={{fontSize:"12px"}}>
-                                                    <textPath xlinkHref="#circle">view in opensea • view in opensea •</textPath>
+                                                    <textPath xlinkHref="#circle">join our community • lotshare •</textPath>
                                                 </text>
                                             </svg>
                                             <i className="uk-position-center uk-text-secondary uk-icon-medium@m unicon-arrow-up-right uk-text-bold"></i>
