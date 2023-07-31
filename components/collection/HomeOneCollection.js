@@ -16,112 +16,112 @@ const HomeOneCollection = () => {
                             <div className="uk-padding-medium-top@m">
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/06.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Metaverse"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/06.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Metaverse"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <a className="uk-link-reset" href="#">#Urban</a>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div>
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/07.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Polly Doll"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/07.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Polly Doll"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <a className="uk-link-reset" href="#">#Rural</a>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div className="uk-padding-medium-top@m">
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/16.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Alec Art"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/16.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Alec Art"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <Link className="uk-link-reset" href="#">#Coastal</Link>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div>
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/11.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Toxic Poeth"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/11.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Toxic Poeth"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <Link className="uk-link-reset" href="#">#Mountainous</Link>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div>
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/01.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Saphyre"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/01.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Saphyre"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <Link className="uk-link-reset" href="#">#Forest</Link>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div>
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/13.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Charcuterie"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/13.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Charcuterie"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <Link className="uk-link-reset" href="#">#Island</Link>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div>
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/12.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="Paradise"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/12.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="Paradise"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <Link className="uk-link-reset" href="#">#Waterfront</Link>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
                             <div>
                                 <div className="uni-artwork uk-card uk-card-xsmall uk-text-center uk-overflow-hidden uk-radius-medium uk-radius-large@m uk-box-shadow-xsmall dark:uk-background-white-5">
                                     <div className="uni-artwork-featured-image uk-panel uk-flex-middle uk-flex-center">
-                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/07.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="#" className="uk-position-cover" aria-label="HighCity"></Link></div>
+                                        <div className="uk-panel uk-image-middle"><img src="images/artwork/07.jpg" alt="" className="uk-radius-small uk-radius-medium@m" loading="lazy" /> <Link href="https://opensea.io/collection/lotshare" className="uk-position-cover" aria-label="HighCity"></Link></div>
                                     </div>
 
                                     <div className="uni-artwork-content uk-panel uk-margin-small-top uk-margin-2xsmall-bottom uk-flex-column uk-flex-middle">
                                         <h2 className="uk-h6 uk-h5@m uk-margin-remove">
                                             <Link className="uk-link-reset" href="#">#Desert</Link>
                                         </h2>
-                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">By LotShare AI</span>
+                                        <span className="uk-text-meta uk-margin-xsmall-top uk-visible@m">Buy on OpenSea</span>
                                     </div>
                                 </div>
                             </div>
