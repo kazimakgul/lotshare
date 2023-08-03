@@ -19,10 +19,11 @@ export default function NerkoTemplate() {
         <Layout>
 			 <Head>
                 <title>LotShare - Accessible and Flexible Land Investments with NFTs</title>
-				<meta property="og:title" content="LotShare - Accessible and Flexible Land Investments with NFTs">
-				<meta property="og:description" content="LotShare is a decentralized platform for buying, selling, and trading land NFTs using the LOT token. Invest in prime real estate and earn staking rewards, transaction discounts, revenue sharing, and more.">
-				<meta property="og:image" content="https://lotshare.app/images/logo/socialLot.png">
-				<meta property="og:url" content="https://lotshare.app">
+				<meta property="og:title" content="LotShare - Accessible and Flexible Land Investments with NFTs" />
+				<meta property="og:description" content="LotShare is a decentralized platform for buying, selling, and trading land NFTs using the LOT token. Invest in prime real estate and earn staking rewards, transaction discounts, revenue sharing, and more." />
+				<meta property="og:image" content="https://lotshare.app/images/logo/socialLot.png" />
+				<meta property="og:url" content="https://lotshare.app" />
+	
             </Head>			
 			<HeroBannerOne/>
 			<br></br>
